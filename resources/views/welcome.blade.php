@@ -86,9 +86,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Bài Gỉang</a>
+                    <a href="https://laravel.com/docs">Bài Gỉảng</a>
                     <a href="https://laracasts.com">Đăng Ký THành Viên</a>
-                    <a href="https://laravel-news.com"></a>
+                    <a href="https://laravel-news.com">Điều Khoản</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
